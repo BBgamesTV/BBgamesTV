@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BBgamesTV
+- 👋 Hi, I’m @BBgamesTV AKA Petit Prince
 - 👀 I’m interested in Hacking and Programation
 - 🌱 I’m currently learning Some language as Python, Html, Css, Js, Batch
 - 📫 How to reach me Discord : Petit Prince#3575
