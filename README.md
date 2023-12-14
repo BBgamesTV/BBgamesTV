@@ -3,7 +3,13 @@
 - 🌱 I’m currently learning Some language as Java, Python, PHP, Html, Css, Js, Batch, SQL
 - 📫 How to reach me Discord : Petit Prince#3575
 
-<!---
-BBgamesTV/BBgamesTV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=57633464" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=57633464&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @BBgamesTV" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=57633464&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
+
+
